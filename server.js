@@ -4,7 +4,7 @@ const sqlite3 = require("sqlite3").verbose();
 const app = express();
 const PORT = 3000;
 
-const WHATSAPP_NUMBER = "918147434571";
+const WHATSAPP_NUMBER = "111111111111111";
 
 app.use(express.json());
 app.use(express.static("public"));
